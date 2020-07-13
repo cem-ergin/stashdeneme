@@ -1,1 +1,2 @@
 # stashdeneme
+stashlerden bir gun
